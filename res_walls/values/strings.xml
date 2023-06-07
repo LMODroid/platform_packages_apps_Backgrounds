@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2022 The LineageOS Project
+     Copyright (C) 2023 droid-ng
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,18 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <array name="partner_wallpapers" translatable="false">
-        <item>ahmed_flower</item>
-        <item>artiom_flower</item>
-        <item>clarisse_sky</item>
-        <item>clark_tiles</item>
-        <item>david_turtle</item>
-        <item>mathias_building</item>
-    </array>
-
-    <array name="default_wallpaper_attributions" translatable="false">
-        <item>Deep starry sky in the North</item>
-        <item>Hampus Olsson</item>
-        <item>Instagram: @hellohampusolsson</item>
-    </array>
+    <string name="default_wallpaper_explore_url" translatable="false">https://abstruct.co</string>
 </resources>
